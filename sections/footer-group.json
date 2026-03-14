@@ -1,0 +1,98 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "newsletter_XmFHBD": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_XPTJpR": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join the Lumivara Community",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_VVALNq": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Subscribe to receive skincare tips, exclusive offers, and updates on new products.</p>"
+          }
+        },
+        "email_form_64aCJ4": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_XPTJpR",
+        "paragraph_VVALNq",
+        "email_form_64aCJ4"
+      ],
+      "name": "t:sections.newsletter.presets.name",
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "link_list_RJFUMm": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "link_list_HxR7hh": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Company",
+            "menu": "company"
+          }
+        },
+        "text_YMrzU7": {
+          "type": "text",
+          "settings": {
+            "heading": "Lumivara Skin",
+            "subtext": "<p>Lumivara Skin creates clean and effective skincare designed to nourish and protect your skin. Our formulas are crafted with carefully selected ingredients to support healthy and radiant skin.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "link_list_RJFUMm",
+        "link_list_HxR7hh",
+        "text_YMrzU7"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 44,
+        "padding_bottom": 48
+      }
+    }
+  },
+  "order": [
+    "newsletter_XmFHBD",
+    "footer"
+  ]
+}

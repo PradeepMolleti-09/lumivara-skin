@@ -1,0 +1,181 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_zbLcPw": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_PjmyLf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get in Touch",
+            "heading_size": "h1"
+          }
+        },
+        "text_j6ibg4": {
+          "type": "text",
+          "settings": {
+            "text": "We’d love to hear from you. Our team is here to help with any questions about our products, orders, or skincare routines.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PjmyLf",
+        "text_j6ibg4"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/contachero.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "zoom-in",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "contact_form_PCjVKi": {
+      "type": "contact-form",
+      "name": "t:sections.contact-form.presets.name",
+      "settings": {
+        "heading": "Send Us a Message",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_xfFVAM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Tx8EEF": {
+          "type": "column",
+          "settings": {
+            "title": "Email Support",
+            "text": "<p><br/>support@lumivaraskin.com<br/><br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Ji3X8F": {
+          "type": "column",
+          "settings": {
+            "title": "Customer Care",
+            "text": "<p>Available Monday – Friday<br/>9 AM – 6 PM<br/><br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_LW9NPf": {
+          "type": "column",
+          "settings": {
+            "title": "Response Time",
+            "text": "<p>We typically respond<br/>within 24 hours.<br/><br/></p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Tx8EEF",
+        "column_Ji3X8F",
+        "column_LW9NPf"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Contact Information",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "Button label",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_dNDgTQ": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_z4wJAL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Q: How long does shipping take?",
+            "icon": "none",
+            "row_content": "<p>A: Orders are usually delivered within 5–7 business days.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_MJLAaV": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Q: Are Lumivara products suitable for all skin types?",
+            "icon": "none",
+            "row_content": "<p>Q: Are Lumivara products suitable for all skin types?</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_rtEccc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Q: How can I track my order?",
+            "icon": "none",
+            "row_content": "<p>A: Once your order is shipped, you will receive an email with tracking details.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_z4wJAL",
+        "collapsible_row_MJLAaV",
+        "collapsible_row_rtEccc"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "Quick Help",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "container_color_scheme": "",
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_zbLcPw",
+    "contact_form_PCjVKi",
+    "multicolumn_xfFVAM",
+    "collapsible_content_dNDgTQ"
+  ]
+}

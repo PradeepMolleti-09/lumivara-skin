@@ -1,0 +1,198 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_banner_ggmTbT": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_BK8U7d": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Story",
+            "heading_size": "h1"
+          }
+        },
+        "text_ywaHWa": {
+          "type": "text",
+          "settings": {
+            "text": "Lumivara Skin was created with a simple mission — to provide clean, effective skincare that supports healthy and radiant skin.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_BK8U7d",
+        "text_ywaHWa"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/abouthero.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "zoom-in",
+        "desktop_content_position": "top-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "scheme-1",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "rich_text_4W4NVq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4QrgNE": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Lumivara Philosophy",
+            "heading_size": "h1"
+          }
+        },
+        "text_3ry3WY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Lumivara Skin, we believe skincare should be simple, clean, and effective. Our products are designed with carefully selected ingredients that nourish and protect your skin.<br/><br/>We focus on creating formulas that support healthy skin while maintaining a minimal and balanced skincare routine. Every Lumivara product is crafted with attention to quality, safety, and performance.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4QrgNE",
+        "text_3ry3WY"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_kmDiMF": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_98eFJL": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Mission",
+            "heading_size": "h1"
+          }
+        },
+        "text_yRttVh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our mission is to help people feel confident in their skin by providing high-quality skincare solutions that are easy to use and effective.<br/><br/>We believe skincare should enhance natural beauty while supporting healthy skin for everyday life. At Lumivara Skin, we're committed to creating products that work with your skin, not against it. Every formulation is thoughtfully developed to deliver visible results without compromise.<br/><br/>We understand that great skincare is personal. That's why we focus on transparency, quality ingredients, and proven efficacy. Whether you're addressing specific concerns or maintaining healthy skin, our range is designed to meet you where you are in your skincare journey.<br/><br/>We're here to support your skin's health and help you discover what works best for you.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_bA8CcF": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore Products",
+            "button_link": "shopify://collections",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_98eFJL",
+        "text_yRttVh",
+        "button_bA8CcF"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Cruelty_Free.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_R6FfRQ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_YQxTYw": {
+          "type": "column",
+          "settings": {
+            "title": "Premium Ingredients",
+            "text": "<p>We're committed to sustainable practices that protect both your skin and the planet. Our packaging is recyclable and our formulations are cruelty-free, never tested on animals. We source ingredients responsibly and work directly with suppliers who share our values. Every purchase supports our mission to make effective skincare accessible to everyone, regardless of skin type or concern.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NfgKwW": {
+          "type": "column",
+          "settings": {
+            "title": "Modern Skincare Science",
+            "text": "<p>Modern Skincare Science<br/><br/>At Lumivara Skin, we blend cutting-edge dermatological research with nature's most potent ingredients. Our formulations are developed to address real skin concerns—from hydration and elasticity to clarity and radiance. Every product is crafted with precision, ensuring that what you apply to your skin is both effective and gentle.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CiRL7c": {
+          "type": "column",
+          "settings": {
+            "title": "Trusted Quality",
+            "text": "<p>From cleansers and moisturizers to serums and sunscreen, our collection covers all the essentials for a complete routine. Whether you're addressing dryness, sensitivity, or maintaining healthy skin, you'll find thoughtfully formulated products that work together to deliver visible results. Each item is selected to be gentle yet effective, making skincare simple and accessible for everyone.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_YQxTYw",
+        "column_NfgKwW",
+        "column_CiRL7c"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Explore Products",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner_ggmTbT",
+    "rich_text_4W4NVq",
+    "image_with_text_kmDiMF",
+    "multicolumn_R6FfRQ",
+    "main"
+  ]
+}

@@ -1,0 +1,188 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover clean and effective skincare designed to hydrate, protect, and restore your natural glow.",
+            "heading_size": "h2"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "shopify://collections/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/hero_image.jpg",
+        "height": "large",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "all",
+        "products_to_show": 4,
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 56,
+        "padding_bottom": 68
+      }
+    },
+    "image_with_text_8RcqEi": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ErgmCK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your Daily Skincare Routine",
+            "heading_size": "h1"
+          }
+        },
+        "text_9HVVmD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A simple routine can transform your skin. Start with a gentle cleanser, follow with a brightening serum, lock in hydration with moisturizer, and finish with sunscreen to protect your skin every day.<br/><br/>1. Cleanse – Hydrating Gentle Cleanser<br/>2. Treat – Vitamin C Brightening Serum<br/>3. Hydrate – Daily Glow Moisturizer<br/>4. Protect – SPF 50 Sunscreen</p>",
+            "text_style": "body"
+          }
+        },
+        "button_pia3md": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop the Routine",
+            "button_link": "shopify://collections",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ErgmCK",
+        "text_9HVVmD",
+        "button_pia3md"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/daily_routine.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_VxiFVn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_h8j7ge": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>★★★★★<br/>\"My skin feels brighter and smoother after just a few weeks.\"<br/>— Emily R.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_iYKEMj": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>★★★★★<br/>\"The cleanser is gentle and perfect for my daily routine.\"<br/>— Olivia M.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dw4Vkm": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>★★★★★<br/>\"I love the moisturizer. It keeps my skin hydrated all day.\"<br/>— Sophia L.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_h8j7ge",
+        "column_iYKEMj",
+        "column_dw4Vkm"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Real Results from Our Customers",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image-with-text",
+    "featured-collection",
+    "image_with_text_8RcqEi",
+    "multicolumn_VxiFVn"
+  ]
+}
